@@ -1,4 +1,9 @@
 # Hi there 👋
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpxemo4dWs3MnhiZXJ5endpdHhvbjB3NzlrdWhzNTg2MW44MGg3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="750" />
+</div>
+    
 I’m a competitive programmer who treats algorithms like a daily workout. Most of my code is written after midnight, when the world is quiet and bugs can’t hear me coming. I love sharing documentation so others can follow the same trail without stepping on the same landmines.
 
 ## 🚀 Expertise
