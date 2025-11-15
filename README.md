@@ -45,7 +45,7 @@ I enjoy building projects that stretch my skills, whether they start as small ex
 
 ## ⌚ Competitive Programming Site
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=code&logoColor=white">
@@ -53,11 +53,6 @@ I enjoy building projects that stretch my skills, whether they start as small ex
   <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white">
   <img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white">
   <img src="https://img.shields.io/badge/SPOJ-1A73E8?style=for-the-badge">
-</p>
-
-<div align = "center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Riveris&theme=radical" />
-  
 </div>
 
 ## 📊 GitHub Stats:
@@ -66,10 +61,6 @@ I enjoy building projects that stretch my skills, whether they start as small ex
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trihajikhr&layout=compact&theme=github_dark" />
 </div>
 
-<div align="center">
-  
-  <img src="https://leetcode-stats-api.vercel.app/RiverRis?theme=dark">
-</div>
 
 
 
