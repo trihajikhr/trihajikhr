@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there 👋
+I’m a competitive programmer who treats algorithms like a daily workout. Most of my code is written after midnight, when the world is quiet and bugs can’t hear me coming. I love sharing documentation so others can follow the same trail without stepping on the same landmines.
 
-<!--
-**trihajikhr/trihajikhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Expertise
 
-Here are some ideas to get you started:
+My expertise centers on algorithms, data structures, and the competitive programming world—where I refine problem-solving under fast and unforgiving constraints. I mainly work with C++, Java, and Python, applying them both in contest environments and in real projects that demand clean, efficient backend design. I’m also deeply invested in documentation: rewriting concepts, structuring notes, and breaking down solutions so others can learn without repeating the same mistakes. With GitHub, Linux, and a tidy workflow, I keep my late-night coding sessions productive instead of chaotic—most of the time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects that stretch my skills, whether they start as small experiments or evolve into full-fledged tools. Whatever I create, I make sure the documentation is clear, engaging, and genuinely helpful—capturing the thought process, decisions, and lessons learned along the way. For me, a project isn’t complete until the journey is well-documented and ready for anyone who wants to follow—or improve upon—it.
+
+# 🖥️ Tech Stack
+
+<div align = "center">
+  <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src = "https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src = "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+  <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+  <img src = "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src = "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src = "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src = "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+  <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src = "https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
+  <img src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src = "https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src = "https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white">
+  <img src = "https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
+  <img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+</div>
+
+# ⌚ Competitive Programming Site
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=code&logoColor=white">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white">
+  <img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white">
+  <img src="https://img.shields.io/badge/SPOJ-1A73E8?style=for-the-badge">
+</p>
+
+# 📊 GitHub Stats:
+<div align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=trihajikhr&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src = "https://nirzak-streak-stats.vercel.app/?user=trihajikhr&theme=dark&hide_border=false">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=trihajikhr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
+
+# 🏆 GitHub Trophies
+<div align = "center">
+  <img src = "https://github-profile-trophy.vercel.app/?username=trihajikhr&theme=onedark&no-frame=false&no-bg=true&margin-w=4">
+</div>
