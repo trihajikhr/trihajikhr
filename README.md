@@ -2,9 +2,7 @@
     
 I’m a competitive programmer who treats algorithms like a daily workout. Most of my code is written after midnight, when the world is quiet and bugs can’t hear me coming. I love sharing documentation so others can follow the same trail without stepping on the same landmines.
 
-<br/>
-
-## 🚀 Expertise
+# 🚀 Expertise
 
 My expertise centers on algorithms, data structures, and the competitive programming world—where I refine problem-solving under fast and unforgiving constraints. I mainly work with C++, Java, and Python, applying them both in contest environments and in real projects that demand clean, efficient backend design. 
 
@@ -12,9 +10,7 @@ I’m also deeply invested in documentation—rewriting concepts, structuring no
 
 I enjoy building projects that stretch my skills, whether they start as small experiments or evolve into full-fledged tools. Whatever I create, I make sure the documentation is clear, engaging, and genuinely helpful—capturing the thought process, decisions, and lessons learned along the way. For me, a project isn’t complete until the journey is well-documented and ready for anyone who wants to follow—or improve upon—it.
 
-<br/>
-
-## 🖥️ Tech Stack
+# 🖥️ Tech Stack
 
 <div align = "center">
   <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -47,9 +43,7 @@ I enjoy building projects that stretch my skills, whether they start as small ex
   <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-<br/>
-
-## ⌚ Competitive Programming Site
+# ⌚ Competitive Programming Site
 
 <div align="center">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
@@ -61,9 +55,7 @@ I enjoy building projects that stretch my skills, whether they start as small ex
   <img src="https://img.shields.io/badge/SPOJ-1A73E8?style=for-the-badge">
 </div>
 
-<br/>
-
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=trihajikhr&show_icons=true&theme=github_dark&hide_title=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trihajikhr&layout=compact&theme=github_dark" />
