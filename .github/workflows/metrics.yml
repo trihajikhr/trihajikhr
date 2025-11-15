@@ -16,19 +16,15 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Asia/Jakarta
 
-          # Plugins
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
 
-          # LeetCode
           plugin_leetcode: yes
           plugin_leetcode_user: RiverRis
 
-          # Codeforces
           plugin_codeforces: yes
           plugin_codeforces_user: Riveris
 
-          # AtCoder
           plugin_atcoder: yes
           plugin_atcoder_user: Riveris
