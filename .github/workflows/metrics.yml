@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */6 * * *"}]  # update tiap 6 jam
+  schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
 
 jobs:
