@@ -1,5 +1,9 @@
 # Hi there 👋
-    
+
+<div align = "center">
+    <img src = "github-metrics.svg">
+</div>
+
 I’m a competitive programmer who treats algorithms like a daily workout. Most of my code is written after midnight, when the world is quiet and bugs can’t hear me coming. I love sharing documentation so others can follow the same trail without stepping on the same landmines.
 
 # 🚀 Expertise
