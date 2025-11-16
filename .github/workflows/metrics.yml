@@ -24,7 +24,7 @@ jobs:
           filename: github-metrics-left.svg
 
           # Options
-          user: stalomeow
+          user: trihajikhr
           template: classic
           base: header, activity, community
           config_timezone: Asia/Jakarta
@@ -50,7 +50,7 @@ jobs:
           filename: github-metrics-right.svg
 
           # Options
-          user: stalomeow
+          user: trihajikhr
           template: classic
           base: ""
           config_timezone: Asia/Jakarta
