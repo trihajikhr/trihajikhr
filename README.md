@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="#">
-    <img width="480" align="top" src="github-metrics-left.svg" />
+    <img width="460" align="top" src="github-metrics-left.svg" />
   </a>
   &emsp;
   <a href="#">
-    <img width="490" align="top" src="github-metrics-achievement.svg" />
+    <img width="470" align="top" src="github-metrics-achievement.svg" />
   </a>
 </p>
 
