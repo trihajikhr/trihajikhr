@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img width="400" align="top" src="github-metrics-left.svg" />
+    <img width="435" align="top" src="github-metrics-left.svg" />
   </a>
   &emsp;
   <a href="#">
@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="#">
-    <img width="400" align="top" src="metrics.plugin.isocalendar.fullyear.svg" />
+    <img width="410" align="top" src="metrics.plugin.isocalendar.fullyear.svg" />
   </a>
   &emsp;
   <a href="#">
-    <img width="400" align="top" src="metrics.plugin.leetcode.svg" />
+    <img width="410" align="top" src="metrics.plugin.leetcode.svg" />
   </a>
 </p>
