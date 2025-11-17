@@ -4,7 +4,7 @@
 > 
 > _PS: Active on several competitive programming platforms—check out [my page (coming soon)](https://github.com/trihajikhr/competitive-programming) for the materials I create, inspired by [CP-Algorithm](https://cp-algorithms.com/)_.
 > 
-> Patience. Good things take time, and I prefer to do them right.
+> **[Every line of code counts!](#)**. Check out my [roadmap.sh](https://roadmap.sh/u/trihajikhr) to see what’s coming up
 
 <p align="center">
   <a href="#">
