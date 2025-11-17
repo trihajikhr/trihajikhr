@@ -32,6 +32,6 @@
   </a>
   &emsp;
   <a href="#">
-    <img width="425" align="top" src="metrics.plugin.followup.indepth.svg" />
+    <img width="420" align="top" src="metrics.plugin.followup.indepth.svg" />
   </a>
 </p>
