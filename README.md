@@ -4,7 +4,7 @@
 > 
 > _PS: Active on several competitive programming platforms—check out my [algo-crash (coming soon)](https://github.com/trihajikhr/competitive-programming) page for the materials I create, inspired by [cp-algorithm](https://cp-algorithms.com/) and [usaco.guide](https://usaco.guide/)_.
 > 
-> _**[Every line of code counts!](#)**_ Check out my [roadmap.sh](https://roadmap.sh/u/trihajikhr) to see what’s coming up!
+> _[Every line of code counts!_ Check out my [roadmap.sh](https://roadmap.sh/u/trihajikhr) to see what’s coming up!
 
 <p align="center">
   <a href="#">
