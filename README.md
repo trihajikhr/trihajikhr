@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img width="435" align="top" src="github-metrics-left.svg" />
+    <img width="420" align="top" src="github-metrics-left.svg" />
   </a>
   &emsp;
   <a href="#">
