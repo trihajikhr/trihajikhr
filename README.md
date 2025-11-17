@@ -25,3 +25,13 @@
     <img width="410" align="top" src="metrics.plugin.leetcode.svg" />
   </a>
 </p>
+
+<p align="center">
+  <a href="#">
+    <img width="400" align="top" src="metrics.plugin.stars.svg" />
+  </a>
+  &emsp;
+  <a href="#">
+    <img width="425" align="top" src="metrics.plugin.followup.indepth.svg" />
+  </a>
+</p>
