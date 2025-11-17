@@ -16,14 +16,26 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: starred repo
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 4
+      # - name: starred repo
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.stars.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_stars: yes
+      #     plugin_stars_limit: 4
+
+       - name: Indepth analysis
+         uses: lowlighter/metrics@latest
+         with:
+           filename: metrics.plugin.followup.indepth.svg
+           token: ${{ secrets.METRICS_TOKEN }}
+           base: ""
+           plugin_followup: yes
+           plugin_followup_sections: repositories, user
+           plugin_followup_indepth: yes
+
+      
        # - name: left profile
        #   uses: stalomeow/metrics@projects-v2
        #   with:
