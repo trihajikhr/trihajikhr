@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="68.53162393162394 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">853</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4095</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="69.3984375 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">864</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4096</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,9 +37,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.872131147540983 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">103</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2135</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.558988764044944 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">114</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2136</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x464</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x254</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x471</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x255</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x183</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x182</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x181</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x103</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x92</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x83</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x59</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x104</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x93</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x85</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x60</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x54</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x52</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x54</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,7 +87,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Surrounded Regions</div>
+                            <div class="title">Create Grid With Exactly One Path</div>
                             <div class="date">27 Oct 2026</div>
                         </div>
                     </div>
@@ -96,7 +96,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Longest Consecutive Sequence</div>
+                            <div class="title">Factorial Trailing Zeroes</div>
                             <div class="date">27 Oct 2026</div>
                         </div>
                     </div>
